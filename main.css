@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+  }
+
+img {
+    width:30%;
+    display: block;
+    margin: auto;
+}
